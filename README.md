@@ -1,6 +1,6 @@
 ## Description 
 - The data collected on Aug 2020.
-- The project is about comparison between two RNA string of Covid-19 (Italy and Germany)
+- The project is about comparison between two RNA string of Covid-19 (Italy and Germany).
 - We first compare each RNA string with the Origin RNA string (China) to find out if there is any mutation occurred ,then we compare the RNA strings gathered from Italy with the RNA strings gathered from  German to find out if there is any difference between them. 
 
 
